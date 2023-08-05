@@ -1,0 +1,41 @@
+SECTION 1: DOWNLOAD DISCLAIMER
+------------------------------
+If your copy of this game was not downloaded from one of
+the following official sources:
+
+STEAM
+https://store.steampowered.com/app/2378900/The_Coffin_of_Andy_and_Leyley/
+
+ITCH.IO
+https://nemlei.itch.io/the-coffin-of-andy-and-leyley
+
+Please note that it may not be an official version and
+could potentially contain malware or viruses. To ensure a
+secure and genuine experience, only download the game from
+the official sources listed.
+
+
+SECTION 2: PERMISSIONS
+----------------------
+All work is copyrighted, and no licenses are granted.
+Fan translations are permitted under these conditions:
+
+ a. Credit Nemlei and include links to official sources.
+ b. Clearly label the translation as unofficial / fan-made.
+ c. Restrict changes and shared files to JSON files, fonts,
+    and other files created by the translator. Distribution
+    of the full game is not allowed.
+
+This document provides permissions solely for fan
+translations. Unauthorized modifications, cracking,
+or distribution is not permitted.
+
+
+SECTION 3: THIRD-PARTY DISCLAIMER
+---------------------------------
+This game includes a variety of third-party assets, each
+with their own individual licenses. The distribution rights
+for these assets belong solely to the developer. Please
+keep in mind that unauthorized use or alteration of the
+game's content might infringe on multiple licenses from
+different vendors.
